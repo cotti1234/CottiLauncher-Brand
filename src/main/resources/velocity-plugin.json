@@ -1,0 +1,7 @@
+{
+  "id": "mysticattack-brand",
+  "name": "MysticAttackBrand",
+  "version": "1.0.0",
+  "main": "de.mysticattack.brand.MysticAttackBrandPlugin",
+  "authors": ["MysticAttack"]
+}
